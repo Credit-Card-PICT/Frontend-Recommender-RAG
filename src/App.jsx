@@ -15,7 +15,7 @@ const App = () => {
   const particlesRef = useRef(null);
 
   // Backend URL - replace with your actual backend URL
-  const BACKEND_URL = 'http://localhost:8000';
+  const BACKEND_URL = 'https://test-rag-api-648309082845.asia-southeast1.run.app';
 
   useEffect(() => {
     // Three.js Particle Background Setup
